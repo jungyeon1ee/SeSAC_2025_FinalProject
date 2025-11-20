@@ -1,7 +1,6 @@
 # SeSAC_2025_FinalProject
-SeSAC 파이널 프로젝트
 
-## KNOCKturne에서 사용 중인 Asset 파일을 관리하는 저장소입니다.
+## SeSAC 파이널 프로젝트에서 사용 중인 Asset 파일을 관리하는 저장소입니다.
 
 ```
 ⚠ 반드시 작업 전 모든 애셋을 업데이트해주세요.
